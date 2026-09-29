@@ -37,7 +37,7 @@ If the URI is missing or connection fails, the server falls back to the file moc
 
 **Start here → [`YOUR_FEATURE.md`](./YOUR_FEATURE.md)**
 
-Full beginner checklist: goal, files, numbered steps, hints, acceptance criteria, demo script, stretch.
+Ownership checklist: goal, files, numbered steps, implementation notes, acceptance criteria, demo script, stretch.
 
 In short: drag/reschedule → PATCH, `GET /api/tonight` + rundown, remaining create/edit/delete. Search for `TODO(your-name)` (each comment references a step number).
 

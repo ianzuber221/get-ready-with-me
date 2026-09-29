@@ -1,6 +1,6 @@
 # YOUR FEATURE — Get Ready With Me (Stream Scheduler)
 
-Welcome. The week grid, seed streams, and `GET /api/streams` already work. Your job is drag-to-reschedule, tonight’s rundown API, and the rest of CRUD.
+**Feature to implement.** The week grid, seed streams, and `GET /api/streams` already work. Own drag-to-reschedule, tonight’s rundown API, and the rest of CRUD.
 
 ---
 
@@ -41,7 +41,7 @@ Search for `TODO(your-name)`.
 
 ---
 
-## Hints
+## Implementation notes
 
 - `store` methods in `server/db.ts` already work for both the file mock and Mongo — **call them**; don’t reimplement storage in the route.
 - Day is `0–6` (`Date.getDay()`). Hours in the grid are roughly 14–23 (2pm–11pm).
